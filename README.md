@@ -1,16 +1,21 @@
-## Hi there 👋
+# Projects
 
-<!--
-**Bemir00/Bemir00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What it contains | Main tools |
+|---|---|---|
+| [SBA_Azure](https://github.com/Bemir00/SBA_Azure) | Geometry calculator with a Flask page and an Azure Function API. | Python, Flask, Azure App Service, Azure Functions |
+| [TSP_Genetic_algorithm](https://github.com/Bemir00/TSP_Genetic_algorithm) | Comparison of random search, greedy search and a genetic algorithm for TSP tours. | Python, NumPy, pandas, Matplotlib |
+| [ml-coursework](https://github.com/Bemir00/ml-coursework) | Exercises covering regression, decision trees, clustering, Naive Bayes and neural networks. | Python, scikit-learn, TensorFlow/Keras |
+| [database-systems-coursework](https://github.com/Bemir00/database-systems-coursework) | SQL exercises and reports about indexing and database systems. | SQL |
+| [SBA](https://github.com/Bemir00/SBA) | Small geometry module with unit tests and a GitHub Actions check. | Python, unittest, GitHub Actions |
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, SQL
+- Flask, REST/JSON, Microsoft Azure, Azure Functions
+- scikit-learn, TensorFlow/Keras, pandas, NumPy, Matplotlib
+- Git, GitHub Actions, unit testing
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/baha-emir-ucakcan
+- Email: bahaemir00@gmail.com
