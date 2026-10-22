@@ -1,7 +1,5 @@
 # Hi, I'm emir
 
-I'm a Computer Science student who builds web applications and explores cloud computing, machine learning and optimization. This profile brings together my freelance work, personal projects and university coursework.
-
 ## Featured work
 
 ### [Chibcha Coffee & Roastery](https://chibchacoffee.com)
